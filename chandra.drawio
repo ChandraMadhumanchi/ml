@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-28T23:02:22.005Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="D3fx5AshKD1qHm_pgxfI" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-28T23:04:35.089Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="qY1nHovEZ8Y0eEPY5XpK" version="14.4.3" type="github">
   <diagram id="ROtzwxqIbSB5s_9sgbQk" name="Page-1">
     <mxGraphModel dx="894" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hhmU4C3-GDhb0q8U8oKx-42" value="Share ML Metrics as&lt;br&gt;Tableau Dash board Report&amp;nbsp;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;br&gt;Integrate the report to&lt;br&gt;&amp;nbsp;channel decision tool&amp;nbsp;" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=center;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#F3E5F5;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="216" width="170" height="128" as="geometry" />
+          <mxGeometry x="1190" y="216" width="200" height="194" as="geometry" />
         </mxCell>
         <mxCell id="hhmU4C3-GDhb0q8U8oKx-44" value="" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#FFEBEE;" vertex="1" parent="1">
           <mxGeometry x="145" y="60" width="775" height="440" as="geometry" />
@@ -155,6 +155,22 @@
         </mxCell>
         <mxCell id="hhmU4C3-GDhb0q8U8oKx-82" value="&lt;b&gt;Task2&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=10;" vertex="1" parent="1">
           <mxGeometry x="830" y="80" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hhmU4C3-GDhb0q8U8oKx-83" value="" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontColor=#999999;fontSize=12;whiteSpace=wrap;spacingBottom=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1215" y="318" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hhmU4C3-GDhb0q8U8oKx-84" value="" style="dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.report;part=1;" vertex="1" parent="hhmU4C3-GDhb0q8U8oKx-83">
+          <mxGeometry x="0.5" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-25" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hhmU4C3-GDhb0q8U8oKx-85" value="" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontColor=#999999;fontSize=12;whiteSpace=wrap;spacingBottom=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1295" y="318" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hhmU4C3-GDhb0q8U8oKx-86" value="" style="dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.users;part=1;" vertex="1" parent="hhmU4C3-GDhb0q8U8oKx-85">
+          <mxGeometry x="0.5" width="50" height="31.5" relative="1" as="geometry">
+            <mxPoint x="-25" y="19.25" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

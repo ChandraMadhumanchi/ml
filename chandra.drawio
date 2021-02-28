@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-28T18:37:26.183Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="OiV9ttCpkFk3llex2Mtj" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-28T18:58:06.776Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="0QJuzQr1B8b5EZyOC0bH" version="14.4.3" type="github">
   <diagram id="ROtzwxqIbSB5s_9sgbQk" name="Page-1">
     <mxGraphModel dx="1744" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,9 +13,6 @@
         <mxCell id="hhmU4C3-GDhb0q8U8oKx-4" value="Job" style="label;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;spacingLeft=0;spacingBottom=4;imageAlign=center;imageVerticalAlign=top;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
           <mxGeometry x="37" y="480" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="hhmU4C3-GDhb0q8U8oKx-5" value="user" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="16" y="580" width="40" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="hhmU4C3-GDhb0q8U8oKx-6" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;exitX=0.05;exitY=0.633;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="18" y="607.98" as="sourcePoint" />
@@ -29,6 +26,20 @@
           <mxGeometry x="-0.2881" y="3" relative="1" as="geometry">
             <mxPoint x="63" y="1.02" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hhmU4C3-GDhb0q8U8oKx-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hhmU4C3-GDhb0q8U8oKx-11" target="hhmU4C3-GDhb0q8U8oKx-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hhmU4C3-GDhb0q8U8oKx-13" value="auto configuration" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hhmU4C3-GDhb0q8U8oKx-12">
+          <mxGeometry y="1" relative="1" as="geometry">
+            <mxPoint y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hhmU4C3-GDhb0q8U8oKx-11" value="Workflow Schduler" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="37" y="370" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hhmU4C3-GDhb0q8U8oKx-14" value="ENTERPRISE&lt;div&gt;USER&lt;/div&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/ibm/users/user.svg;strokeColor=#FF0000;fillColor=#FFFF66;gradientColor=none;fontColor=#4277BB;labelBackgroundColor=#ffffff;spacingTop=3;" vertex="1" parent="1">
+          <mxGeometry x="20" y="580" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

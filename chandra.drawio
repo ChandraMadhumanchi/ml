@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-28T23:00:46.829Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="krD0Lp_KEqgRTHXP35-V" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-28T23:02:22.005Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="D3fx5AshKD1qHm_pgxfI" version="14.4.3" type="github">
   <diagram id="ROtzwxqIbSB5s_9sgbQk" name="Page-1">
     <mxGraphModel dx="894" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -152,6 +152,9 @@
         </mxCell>
         <mxCell id="hhmU4C3-GDhb0q8U8oKx-81" value="&lt;font color=&quot;#000000&quot;&gt;Data Warehouse&lt;/font&gt;&lt;br&gt;BigQuery&lt;hr&gt;" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=bigquery;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=top;spacingLeft=5;fontColor=#999999;fontSize=12;spacingTop=-8;" vertex="1" parent="1">
           <mxGeometry x="590" y="121" width="44" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="hhmU4C3-GDhb0q8U8oKx-82" value="&lt;b&gt;Task2&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=10;" vertex="1" parent="1">
+          <mxGeometry x="830" y="80" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

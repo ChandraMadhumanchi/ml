@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-02-28T23:16:31.597Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="ZA_De1Nn572076zf-W4k" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-28T23:31:34.266Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="TncFOKBKMMV8zY7-Vkri" version="14.4.3" type="github">
   <diagram id="ROtzwxqIbSB5s_9sgbQk" name="Page-1">
     <mxGraphModel dx="894" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="hhmU4C3-GDhb0q8U8oKx-1" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="130" y="50" width="840" height="460" as="geometry" />
+          <mxGeometry x="130" y="50" width="960" height="470" as="geometry" />
         </mxCell>
         <mxCell id="hhmU4C3-GDhb0q8U8oKx-14" value="ENTERPRISE&lt;div&gt;USER&lt;/div&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/ibm/users/user.svg;strokeColor=#FF0000;fillColor=#FFFF66;gradientColor=none;fontColor=#4277BB;labelBackgroundColor=#ffffff;spacingTop=3;" vertex="1" parent="1">
           <mxGeometry x="10" y="370" width="60" height="60" as="geometry" />
@@ -30,7 +30,7 @@
           <mxGeometry x="1310" y="183" width="200" height="194" as="geometry" />
         </mxCell>
         <mxCell id="hhmU4C3-GDhb0q8U8oKx-44" value="" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#FFEBEE;" vertex="1" parent="1">
-          <mxGeometry x="145" y="60" width="785" height="440" as="geometry" />
+          <mxGeometry x="145" y="60" width="925" height="440" as="geometry" />
         </mxCell>
         <mxCell id="hhmU4C3-GDhb0q8U8oKx-45" value="" style="shape=mxgraph.gcp2.doubleRect;strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;fontSize=11;fontColor=#9E9E9E;align=center;html=1;" vertex="1" parent="1">
           <mxGeometry x="273" y="70" width="165" height="78" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="150" y="80" width="123" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hhmU4C3-GDhb0q8U8oKx-33" value="&lt;br&gt;&lt;br&gt;&lt;h3&gt;Data Preparation&lt;/h3&gt;&lt;br&gt;1. load base tables&lt;br&gt;2. create functions&lt;br&gt;3. derive &amp;amp; create &lt;br&gt;final model input table" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=center;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#E1F5FE;" vertex="1" parent="1">
-          <mxGeometry x="520" y="110" width="220" height="160" as="geometry" />
+          <mxGeometry x="520" y="110" width="180" height="160" as="geometry" />
         </mxCell>
         <mxCell id="hhmU4C3-GDhb0q8U8oKx-4" value="Job&amp;nbsp;" style="label;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;spacingLeft=0;spacingBottom=4;imageAlign=center;imageVerticalAlign=top;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
           <mxGeometry x="148" y="248" width="80" height="70" as="geometry" />
@@ -111,10 +111,10 @@
           <mxGeometry x="520" y="340" width="160" height="130" as="geometry" />
         </mxCell>
         <mxCell id="hhmU4C3-GDhb0q8U8oKx-67" value="&lt;h3&gt;Predict&lt;/h3&gt;1. Load saved model &lt;br&gt;&amp;nbsp; from&lt;br&gt;&amp;nbsp; GCP&amp;nbsp; bucket&lt;br&gt;&lt;br&gt;2. predict the results&lt;br&gt;&lt;br&gt;3.push results to BQ" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=center;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#E1F5FE;" vertex="1" parent="1">
-          <mxGeometry x="710" y="327.5" width="210" height="162.5" as="geometry" />
+          <mxGeometry x="880" y="318.75" width="160" height="162.5" as="geometry" />
         </mxCell>
-        <mxCell id="hhmU4C3-GDhb0q8U8oKx-69" value="&lt;b&gt;Task1&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=10;" vertex="1" parent="1">
-          <mxGeometry x="550" y="80" width="50" height="20" as="geometry" />
+        <mxCell id="hhmU4C3-GDhb0q8U8oKx-69" value="&lt;b&gt;Task1 : Data Preparation&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=10;" vertex="1" parent="1">
+          <mxGeometry x="540" y="70" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hhmU4C3-GDhb0q8U8oKx-72" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;entryX=0.093;entryY=1.042;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="hhmU4C3-GDhb0q8U8oKx-33">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -142,7 +142,7 @@
         <mxCell id="hhmU4C3-GDhb0q8U8oKx-78" value="No" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;opacity=10;" vertex="1" parent="1">
           <mxGeometry x="540" y="304" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hhmU4C3-GDhb0q8U8oKx-80" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="hhmU4C3-GDhb0q8U8oKx-80" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;" edge="1" parent="1" source="hhmU4C3-GDhb0q8U8oKx-67">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="920" y="404" as="sourcePoint" />
             <mxPoint x="1180" y="310" as="targetPoint" />
@@ -161,8 +161,8 @@
         <mxCell id="hhmU4C3-GDhb0q8U8oKx-81" value="&lt;font color=&quot;#000000&quot;&gt;Data Warehouse&lt;/font&gt;&lt;br&gt;BigQuery&lt;hr&gt;" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=bigquery;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=top;spacingLeft=5;fontColor=#999999;fontSize=12;spacingTop=-8;" vertex="1" parent="1">
           <mxGeometry x="550" y="121" width="44" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="hhmU4C3-GDhb0q8U8oKx-82" value="&lt;b&gt;Task2&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=10;" vertex="1" parent="1">
-          <mxGeometry x="830" y="80" width="50" height="20" as="geometry" />
+        <mxCell id="hhmU4C3-GDhb0q8U8oKx-82" value="&lt;b&gt;Task2: Model Building &amp;amp; Training&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=10;" vertex="1" parent="1">
+          <mxGeometry x="720" y="70" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hhmU4C3-GDhb0q8U8oKx-83" value="" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontColor=#999999;fontSize=12;whiteSpace=wrap;spacingBottom=2;html=1;" vertex="1" parent="1">
           <mxGeometry x="1330" y="289" width="70" height="70" as="geometry" />
@@ -180,8 +180,39 @@
             <mxPoint x="-25" y="19.25" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hhmU4C3-GDhb0q8U8oKx-87" value="&lt;h3&gt;Predict&lt;/h3&gt;1. Load saved model &lt;br&gt;&amp;nbsp; from&lt;br&gt;&amp;nbsp; GCP&amp;nbsp; bucket&lt;br&gt;&lt;br&gt;2. predict the results&lt;br&gt;&lt;br&gt;3.push results to BQ" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=center;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#E1F5FE;" vertex="1" parent="1">
-          <mxGeometry x="750" y="110" width="210" height="162.5" as="geometry" />
+        <mxCell id="hhmU4C3-GDhb0q8U8oKx-96" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hhmU4C3-GDhb0q8U8oKx-87" target="hhmU4C3-GDhb0q8U8oKx-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hhmU4C3-GDhb0q8U8oKx-87" value="1.Hyper-paramer &lt;br&gt;tuning&lt;br&gt;2.Best Model&lt;br&gt;&amp;nbsp;selection&lt;br&gt;3.Model testing&lt;br&gt;4.Model validation&lt;br&gt;5.Model save to&lt;br&gt;&amp;nbsp;GCP Bucket&lt;br&gt;&lt;br&gt;&lt;h3&gt;&lt;/h3&gt;" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=center;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#E1F5FE;" vertex="1" parent="1">
+          <mxGeometry x="730" y="110" width="120" height="162.5" as="geometry" />
+        </mxCell>
+        <mxCell id="hhmU4C3-GDhb0q8U8oKx-90" value="&lt;h3&gt;Predict&lt;/h3&gt;1. Load saved model &lt;br&gt;&amp;nbsp; from&lt;br&gt;&amp;nbsp; GCP&amp;nbsp; bucket&lt;br&gt;&lt;br&gt;2. predict the results&lt;br&gt;&lt;br&gt;3.push results to BQ" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=center;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#E1F5FE;" vertex="1" parent="1">
+          <mxGeometry x="880" y="110" width="170" height="162.5" as="geometry" />
+        </mxCell>
+        <mxCell id="hhmU4C3-GDhb0q8U8oKx-91" value="&lt;b&gt;Task3: Predict&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=10;" vertex="1" parent="1">
+          <mxGeometry x="890" y="70" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hhmU4C3-GDhb0q8U8oKx-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=open;startFill=0;endArrow=open;endFill=0;strokeWidth=2;strokeColor=#808080;" edge="1" parent="1" source="hhmU4C3-GDhb0q8U8oKx-33" target="hhmU4C3-GDhb0q8U8oKx-87">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="180" />
+              <mxPoint x="690" y="180" />
+            </Array>
+            <mxPoint x="559.5" y="101.5" as="sourcePoint" />
+            <mxPoint x="637.5" y="101.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hhmU4C3-GDhb0q8U8oKx-100" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;entryX=0.563;entryY=-0.041;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="hhmU4C3-GDhb0q8U8oKx-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1050" y="210" as="sourcePoint" />
+            <mxPoint x="1100" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1190" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hhmU4C3-GDhb0q8U8oKx-101" value="ML Pipeline Design" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;opacity=10;" vertex="1" parent="1">
+          <mxGeometry x="390" y="10" width="550" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

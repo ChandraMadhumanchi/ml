@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-28T22:14:01.839Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="h2Ts1ru7_Spqz96JaGwv" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-28T22:19:29.775Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="kuowQ4DkOKEuRIwitfgU" version="14.4.3" type="github">
   <diagram id="ROtzwxqIbSB5s_9sgbQk" name="Page-1">
     <mxGraphModel dx="894" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -98,7 +98,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hhmU4C3-GDhb0q8U8oKx-60" value="Load workflow configurations" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B5739D;opacity=10;" vertex="1" parent="1">
+        <mxCell id="hhmU4C3-GDhb0q8U8oKx-60" value="Load ML Model configurations" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B5739D;opacity=10;" vertex="1" parent="1">
           <mxGeometry x="251.75" y="250" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
